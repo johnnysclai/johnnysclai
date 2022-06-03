@@ -1,4 +1,4 @@
-# Hi👋!
+# Hi👋
 
 I was a MPhil student and Research Assistant at The Hong Kong Polytechnic University. I am currently a full-time Computer Vision Engineer. My interests include artificial intelligence, computer vision, image processing, deep learning, machine learning, data science, face recognition, and object tracking. You can know more about me by visiting [johnnysclai.com](https://johnnysclai.com/).
 
