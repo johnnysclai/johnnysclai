@@ -4,6 +4,8 @@ I was a MPhil student and Research Assistant at The Hong Kong Polytechnic Univer
 
 [![Johnny Lai's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=johnnysclai&count_private=true&theme=default&showicons=true)](https://github.com/johnnysclai)
 
+[![Johnny Lai's GitHub Stats](https://github.com/johnnysclai/github-stats/blob/master/generated/overview.svg)](https://github.com/johnnysclai)
+
 ![](https://github.com/johnnysclai/github-stats/blob/master/generated/overview.svg)
 
 ![](https://github.com/johnnysclai/github-stats/blob/master/generated/languages.svg)
