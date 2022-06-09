@@ -1,6 +1,6 @@
 # Hi👋
 
-I received my **B.Eng.** and **M.Phil.*** degrees from The Hong Kong Polytechnic University at 2016 and 2022, respectively. I was a **Research Assistant** at the same university during Jul. 2020 to Mar. 2021. 
+I received my **B.Eng.** and **M.Phil.** degrees from The Hong Kong Polytechnic University at 2016 and 2022, respectively. I was a **Research Assistant** at the same university during Jul. 2020 to Mar. 2021. 
 
 I am currently a full-time **Computer Vision Engineer**. My interests include artificial intelligence, computer vision, image processing, deep learning, machine learning, data science, face recognition, and object tracking. You can know more about me by visiting [my personal website](https://johnnysclai.com/) and [Linkedin](https://www.linkedin.com/in/johnnysclai/).
 
