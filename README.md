@@ -6,7 +6,7 @@ I am currently a full-time **Computer Vision Engineer**. My interests include ar
 
 ## My favour tech stacks🧑‍💻
 - **Programming Language**: Python
-- **Machine Learning**: PyTorch, MXNet, Tensorflow, Keras, Scikit-learn
+- **Machine Learning**: PyTorch, Tensorflow, MXNet, Keras, Scikit-learn
 - **Computer Vision**: OpenCV, Kornia, Scikit-image
 - **Data Science**: Pandas, Numpy, Matplotlib, AWS DynamoDB, MongoDB, PostgreSQL, Google Data Studio
 - **IDE**: Visual Studio Code, PyCharm, Android Studio
