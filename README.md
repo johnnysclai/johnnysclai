@@ -5,8 +5,8 @@ I received my **B.Eng.** and **M.Phil.** degrees from The Hong Kong Polytechnic 
 I am currently a full-time **Computer Vision Engineer**. My interests include artificial intelligence, computer vision, image processing, deep learning, machine learning, data science, face recognition, and object tracking. You can know more about me by visiting [my personal website](https://johnnysclai.com/) and [Linkedin](https://www.linkedin.com/in/johnnysclai/).
 
 ## My favour tech stacks🧑‍💻
-- **Programming Language**: Python
-- **Machine Learning**: PyTorch, Tensorflow, MXNet, Keras, Scikit-learn
+- **Programming Language**: Python, C++
+- **Machine/Deep Learning**: PyTorch, MXNet, Tensorflow, ncnn, Keras, Scikit-learn
 - **Computer Vision**: OpenCV, Kornia, Scikit-image
 - **Data Science**: Pandas, Numpy, Matplotlib, AWS DynamoDB, MongoDB, PostgreSQL, Google Data Studio
 - **IDE**: Visual Studio Code, PyCharm, Android Studio
