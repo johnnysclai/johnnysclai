@@ -12,8 +12,8 @@ I am currently a full-time **Computer Vision Engineer**. My interests include ar
 - **IDE**: Visual Studio Code, PyCharm, Android Studio
 - **Cloud Service**: AWS, Google Cloud Platform
 - **Serverless Application**: AWS Lambda, AWS Chalice, AWS SAM
-- **Version Control**: git
-- **CI/CD**: CircleCI, Jenkins, Github Actions
+- **Version Control**: git, Sourcetree, GitHub Desktop
+- **CI/CD**: CircleCI, Jenkins, GitHub Actions
 
 [![Johnny Lai's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=johnnysclai&count_private=true&theme=default&showicons=true)](https://github.com/johnnysclai)
 
