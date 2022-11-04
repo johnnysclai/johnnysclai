@@ -10,7 +10,7 @@ I am currently a full-time **Computer Vision Engineer**. My interests include ar
 - **Computer Vision**: OpenCV, Kornia, Scikit-image
 - **Data Science**: Pandas, Numpy, Matplotlib, AWS DynamoDB, MongoDB, PostgreSQL, Google Data Studio
 - **IDE**: Visual Studio Code, PyCharm, Android Studio
-- **Cloud Service**: AWS, Google Cloud Platform
+- **Cloud Service**: AWS
 - **Serverless Application**: AWS Lambda, AWS Chalice, AWS SAM
 - **Version Control**: git, Sourcetree, GitHub Desktop
 - **CI/CD**: CircleCI, Jenkins, GitHub Actions
