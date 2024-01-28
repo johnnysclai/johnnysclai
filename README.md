@@ -6,14 +6,14 @@ I am currently a full-time **Computer Vision Engineer**. My interests include ar
 
 ## My favour tech stacks🧑‍💻
 - **Programming Language**: Python, C++
-- **Machine/Deep Learning**: PyTorch, MXNet, Tensorflow, ncnn, Keras, Scikit-learn
+- **Machine/Deep Learning**: PyTorch, MXNet, Tensorflow, ncnn, Scikit-learn
 - **Computer Vision**: OpenCV, Kornia, Scikit-image
 - **Data Science**: Pandas, Numpy, Matplotlib, AWS DynamoDB, MongoDB, PostgreSQL, Google Data Studio
 - **IDE**: Visual Studio Code, PyCharm, Android Studio
 - **Cloud Service**: AWS
 - **Serverless Application**: AWS Lambda, AWS Chalice, AWS SAM
-- **Version Control**: git, Sourcetree, GitHub Desktop
-- **CI/CD**: CircleCI, Jenkins, GitHub Actions
+- **Version Control**: git
+- **CI/CD**: CircleCI
 
 [![](https://github.com/johnnysclai/github-stats/blob/master/generated/overview.svg)](https://github.com/johnnysclai)
 [![](https://github.com/johnnysclai/github-stats/blob/master/generated/languages.svg)](https://github.com/johnnysclai)
